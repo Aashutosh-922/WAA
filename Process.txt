@@ -1,0 +1,6 @@
+Open Terminal
+pip install pywhatkit 
+import it 
+code
+run it
+It will open WhatsApp and send message.
